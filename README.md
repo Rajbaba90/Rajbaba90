@@ -5,7 +5,7 @@ Java Full Stack Developer | Computer Science Undergraduate
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=0E75B6&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Placement+Focused+Developer;Open+to+Internships+%26+Full-Time+Roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2200&color=0E75B6&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Placement+Focused+Engineer;Open+to+Internships+%26+Full-Time+Roles;Backend+%7C+REST+APIs+%7C+System+Design" />
 </p>
 
 <p align="center">
@@ -15,22 +15,22 @@ Java Full Stack Developer | Computer Science Undergraduate
 ---
 
 ## 👨‍💻 About Me
-- 🎓 B.Tech (Computer Science / CSIT)
+- 🎓 B.Tech in Computer Science / CSIT  
 - 💼 Aspiring **Java Full Stack Developer**
-- 🔭 Working on **real-world web applications**
+- 🔭 Building **real-world full stack applications**
 - 🌱 Learning **Spring Boot, REST APIs, Microservices**
-- 🧠 Strong interest in **Backend & System Design**
+- 🧠 Strong interest in **Backend Development & DSA**
 - 📫 Email: **rajpatel20180@gmail.com**
 
 ---
 
 ## 🤝 Connect With Me
 <p align="left">
-  <a href="ADD_LINKEDIN_LINK_HERE" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
+  <a href="https://linkedin.com/in/raj-patel-003243250" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
-  <a href="ADD_LEETCODE_LINK_HERE" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" />
+  <a href="https://leetcode.com/u/Rajpatel_85/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
   </a>
   <a href="https://github.com/Rajbaba90" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
@@ -39,26 +39,26 @@ Java Full Stack Developer | Computer Science Undergraduate
 
 ---
 
-## 🧩 Project Showcase
+## 🧩 Featured Projects
 <p align="center">
 
 <a href="https://github.com/Rajbaba90">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajbaba90&repo=Library-Management-System&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajbaba90&repo=Library-Management-System&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/Rajbaba90">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajbaba90&repo=Secure-Data-Hiding-Steganography&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajbaba90&repo=Secure-Data-Hiding-Steganography&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/Rajbaba90">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajbaba90&repo=Expense-Tracker&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajbaba90&repo=Expense-Tracker&theme=tokyonight&hide_border=true" />
 </a>
 
 </p>
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills & Technologies
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="42"/>
@@ -71,7 +71,7 @@ Java Full Stack Developer | Computer Science Undergraduate
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rajbaba90&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
@@ -89,7 +89,7 @@ Java Full Stack Developer | Computer Science Undergraduate
 
 ---
 
-## 🐍 Contribution Animation
+## 🐍 Contribution Graph
 <p align="center">
   <img src="https://github.com/Rajbaba90/Rajbaba90/blob/output/github-contribution-grid-snake.svg" />
 </p>
@@ -97,4 +97,4 @@ Java Full Stack Developer | Computer Science Undergraduate
 ---
 
 ## 🎯 Career Objective
-Motivated Computer Science undergraduate seeking **internship / entry-level software roles** where I can apply my **Java Full Stack skills**, contribute to real-world products, and grow as a backend-focused engineer.
+Computer Science undergraduate actively seeking **internship and entry-level software roles** where I can apply my **Java Full Stack and backend development skills**, contribute to scalable systems, and grow as a professional engineer.
