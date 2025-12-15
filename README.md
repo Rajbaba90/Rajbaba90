@@ -1,28 +1,28 @@
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#0e75b6;">Raj Patel</span>
+  Hi 👋, I'm Raj Patel
 </h1>
 
 <h3 align="center">
-  A Passionate Computer Science & Full-Stack Developer 🚀
+  A Passionate Computer Science & Java Full Stack Developer 🚀
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0E75B6&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Cyber+Security+Enthusiast;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0E75B6&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Cyber+Security+Enthusiast;Open+Source+Learner" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Rajbaba90&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **Full Stack Web Development**
-- 🌱 Learning **Spring Boot, React & Microservices**
+- 🔭 Currently working on **Java Full Stack Development**
+- 🌱 Learning **Spring Boot, React, Microservices**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 🎓 Pursuing **Bachelor of Technology (CSE)**
+- 🎓 Pursuing **Bachelor of Technology (CSE/CSIT)**
 - 📫 Reach me at **rajpatel20180@gmail.com**
-- 📄 Resume: [View Resume](https://drive.google.com/)
+- 📄 Resume: *(Add your Google Drive link here)*
 
 ---
 
@@ -31,11 +31,11 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
-  </a>
   <a href="https://leetcode.com/YOUR_LEETCODE" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" />
+  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
   </a>
 </p>
 
@@ -56,23 +56,23 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rajbaba90&theme=algolia&no-frame=true&row=1" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajbaba90&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajbaba90&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Rajbaba90/Rajbaba90/blob/output/github-contribution-grid-snake.svg" />
 </p>
