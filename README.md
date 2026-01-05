@@ -47,11 +47,11 @@ Java Full Stack Developer | Computer Science Undergraduate
 </a>
 
 <a href="https://github.com/Rajbaba90">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajbaba90&repo=Secure-Data-Hiding-Steganography&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajbaba90&repo=Secure-Data-Hiding-Steganography&theme=dark&show_owner=true" />
 </a>
 
 <a href="https://github.com/Rajbaba90">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajbaba90&repo=Expense-Tracker&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajbaba90&repo=Expense-Tracker&theme=dark&show_owner=true" />
 </a>
 
 </p>
@@ -91,7 +91,7 @@ Java Full Stack Developer | Computer Science Undergraduate
 
 ## 🐍 Contribution Graph
 <p align="center">
-  <img src="https://github.com/Rajbaba90/Rajbaba90/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Rajbaba90/Rajbaba90/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
