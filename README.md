@@ -42,17 +42,11 @@ Java Full Stack Developer | Computer Science Undergraduate
 ## 🧩 Featured Projects
 <p align="center">
 
-<a href="https://github.com/Rajbaba90">
-  <img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/pin.svg?username=Rajbaba90&repo=Library-Management-System&theme=dark&show_owner=true" />
-</a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Rajbaba90&repo=Library-Management-System" />
 
-<a href="https://github.com/Rajbaba90">
-  <img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/pin.svg?username=Rajbaba90&repo=Secure-Data-Hiding-Steganography&theme=dark&show_owner=true" />
-</a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Rajbaba90&repo=Secure-Data-Hiding-Steganography" />
 
-<a href="https://github.com/Rajbaba90">
-  <img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/pin.svg?username=Rajbaba90&repo=Expense-Tracker&theme=dark&show_owner=true" />
-</a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Rajbaba90&repo=Expense-Tracker" />
 
 </p>
 
@@ -73,18 +67,18 @@ Java Full Stack Developer | Computer Science Undergraduate
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api.svg?username=Rajbaba90&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rajbaba90&show_icons=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/top-langs.svg?username=Rajbaba90&layout=compact" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rajbaba90&layout=compact" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/trophy.svg?username=Rajbaba90" />
+  <img src="https://github-profile-trophy-git-masterrstaa-rickstaa.vercel.app/?username=Rajbaba90" />
 </p>
 
 ---
