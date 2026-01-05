@@ -9,6 +9,8 @@
   <img src="https://komarev.com/ghpvc/?username=Rajbaba90&label=Profile%20Views&style=flat" />
 </p>
 
+> **"Backend-focused Full Stack Engineer building scalable and secure Java systems."**
+
 ---
 
 ## 👨‍💻 About Me
@@ -18,6 +20,22 @@
 - 🌱 Spring Boot, REST APIs, Microservices  
 - 🧠 DSA & Backend focused  
 - 📫 **rajpatel20180@gmail.com**
+
+---
+
+## 🚧 What I'm Currently Working On
+- Building **Spring Boot REST APIs**
+- Practicing **DSA (Striver Sheet)**
+- Learning **Microservices Architecture**
+- Preparing for **Product Based Company Placements**
+
+---
+
+## 🎯 Career Focus
+- Backend Engineering  
+- System Design Basics  
+- REST API Development  
+- Clean Architecture  
 
 ---
 
@@ -66,25 +84,41 @@
 <td width="50%">
 
 ### 🎙️ VoiceSense  
-**Java • Speech Processing • ML**
-
-- Real-time voice command recognition  
+**Java • Speech Processing • ML**  
+- Real-time voice recognition  
 - Intelligent response system  
-- NLP & ML based processing  
-
+- NLP & ML processing  
 👉 https://github.com/Rajbaba90/VoiceSense
-
-</td>
-<td width="50%">
-
-### 🧠 Tech Snapshot
-| Java | Spring | React | MySQL | Git | Linux |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🧠 Tech Snapshot
+
+| Java | Spring | React | MySQL | Git | Linux |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+
+---
+
+## ⚡ Tech Stack Summary
+
+| Layer | Technologies |
+|-----|-------------|
+| Frontend | React, HTML, CSS |
+| Backend | Java, Spring Boot |
+| Database | MySQL |
+| Tools | Git, Linux, Postman |
+
+---
+
+## 🏆 Milestones
+- 2024 – Built Library Management System  
+- 2025 – Final Year Steganography Project  
+- 2026 – Started Full Stack Microservices Journey
 
 ---
 
