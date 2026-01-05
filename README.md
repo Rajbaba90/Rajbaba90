@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Raj Patel</h1>
+# 👋 Hi, I'm Raj Patel  
 
-<h3 align="center">
-Java Full Stack Developer | Computer Science Undergraduate
-</h3>
+### Java Full Stack Developer | Computer Science Undergraduate  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2200&color=0E75B6&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Placement+Focused+Engineer;Open+to+Internships+%26+Full-Time+Roles;Backend+%7C+REST+APIs+%7C+System+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2000&color=0E75B6&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Backend+%7C+REST+APIs+%7C+System+Design;Open+to+Internships+%26+Entry+Level+Roles" />
 </p>
 
 <p align="center">
@@ -15,12 +13,18 @@ Java Full Stack Developer | Computer Science Undergraduate
 ---
 
 ## 👨‍💻 About Me
-- 🎓 B.Tech in Computer Science / CSIT  
-- 💼 Aspiring **Java Full Stack Developer**
-- 🔭 Building **real-world full stack applications**
-- 🌱 Learning **Spring Boot, REST APIs, Microservices**
-- 🧠 Strong interest in **Backend Development & DSA**
-- 📫 Email: **rajpatel20180@gmail.com**
+- 🎓 B.Tech Computer Science (CSIT)
+- 💼 Java Full Stack Developer (Spring Boot, REST APIs, MySQL, React)
+- 🔭 Building production-ready full stack applications  
+- 🌱 Learning Microservices, System Design & Cloud  
+- 🧠 Strong in DSA, OOPS, DBMS, OS, Computer Networks  
+- 🎯 Actively seeking **Software Developer Intern / Entry-Level Roles**  
+- 📫 rajpatel20180@gmail.com  
+
+---
+
+## 🎯 Career Objective
+Motivated Computer Science undergraduate seeking **internship and entry-level software developer roles** to apply **Java Full Stack, backend development, REST APIs, and system design skills** in building scalable applications while learning from industry-level engineering teams.
 
 ---
 
@@ -41,19 +45,16 @@ Java Full Stack Developer | Computer Science Undergraduate
 
 ## 🧩 Featured Projects
 <p align="center">
-
-<a href="https://github.com/Rajbaba90">
+<a href="https://github.com/Rajbaba90/Library-Management-System">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajbaba90&repo=Library-Management-System&theme=tokyonight&hide_border=true" />
 </a>
-
-<a href="https://github.com/Rajbaba90">
+<a href="https://github.com/Rajbaba90/Secure-Data-Hiding-Steganography">
+  <img src="https://github.com/Rajbaba90/Secure-Data-Hiding-Steganography">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajbaba90&repo=Secure-Data-Hiding-Steganography&theme=tokyonight&hide_border=true" />
 </a>
-
-<a href="https://github.com/Rajbaba90">
+<a href="https://github.com/Rajbaba90/Expense-Tracker">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajbaba90&repo=Expense-Tracker&theme=tokyonight&hide_border=true" />
 </a>
-
 </p>
 
 ---
@@ -71,13 +72,9 @@ Java Full Stack Developer | Computer Science Undergraduate
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rajbaba90&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajbaba90&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -86,15 +83,3 @@ Java Full Stack Developer | Computer Science Undergraduate
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rajbaba90&theme=algolia&no-frame=true&row=1" />
 </p>
-
----
-
-## 🐍 Contribution Graph
-<p align="center">
-  <img src="https://github.com/Rajbaba90/Rajbaba90/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🎯 Career Objective
-Computer Science undergraduate actively seeking **internship and entry-level software roles** where I can apply my **Java Full Stack and backend development skills**, contribute to scalable systems, and grow as a professional engineer.
