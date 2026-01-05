@@ -65,12 +65,14 @@
 <tr>
 <td width="50%">
 
-### 💰 Expense Tracker  
-**Spring Boot • REST • MySQL**  
-- Auth & roles  
-- Real-time APIs  
-- Analytics dashboard  
-👉 https://github.com/Rajbaba90/Expense-Tracker
+### 🎙️ VoiceSense  
+**Java • Speech Processing • ML**
+
+- Real-time voice command recognition  
+- Intelligent response system  
+- NLP & ML based processing  
+
+👉 https://github.com/Rajbaba90/VoiceSense
 
 </td>
 <td width="50%">
