@@ -3,11 +3,11 @@
 ### Java Full Stack Developer | Computer Science Undergraduate  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2000&color=0E75B6&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Backend+%7C+REST+APIs+%7C+System+Design;Open+to+Internships+%26+Entry+Level+Roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Backend+%7C+REST+APIs+%7C+System+Design;Open+to+Internships+%26+Entry+Level+Roles" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rajbaba90&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Rajbaba90&label=Profile%20Views&color=58A6FF&style=flat" />
 </p>
 
 ---
@@ -49,7 +49,6 @@ Motivated Computer Science undergraduate seeking **internship and entry-level so
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajbaba90&repo=Library-Management-System&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/Rajbaba90/Secure-Data-Hiding-Steganography">
-  <img src="https://github.com/Rajbaba90/Secure-Data-Hiding-Steganography">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajbaba90&repo=Secure-Data-Hiding-Steganography&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/Rajbaba90/Expense-Tracker">
@@ -81,5 +80,5 @@ Motivated Computer Science undergraduate seeking **internship and entry-level so
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rajbaba90&theme=algolia&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rajbaba90&theme=onestar&no-frame=true&row=1" />
 </p>
