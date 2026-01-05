@@ -43,7 +43,7 @@ Java Full Stack Developer | Computer Science Undergraduate
 <p align="center">
 
 <a href="https://github.com/Rajbaba90">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajbaba90&repo=Library-Management-System&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajbaba90&repo=Library-Management-System&theme=dark&show_owner=true" />
 </a>
 
 <a href="https://github.com/Rajbaba90">
@@ -73,18 +73,18 @@ Java Full Stack Developer | Computer Science Undergraduate
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajbaba90&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajbaba90&count_private=true&include_all_commits=true&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajbaba90&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajbaba90&layout=compact&langs_count=10&theme=dark" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rajbaba90&theme=algolia&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rajbaba90&column=7&no-frame=true&no-bg=true" />
 </p>
 
 ---
