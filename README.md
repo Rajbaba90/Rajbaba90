@@ -125,10 +125,10 @@
 
 | Layer | Technologies |
 |-----|-------------|
-| Frontend | React, HTML, CSS |
+| Frontend | React, HTML, CSS, JavaScript |
 | Backend | Java, Spring Boot |
-| Database | MySQL |
-| Tools | Git, Linux, Postman |
+| Database | MySQL, SQLLite, MongoDB |
+| Tools | Git, GitHub, Linux, Postman |
 
 ---
 
