@@ -67,6 +67,14 @@
 - Admin dashboard  
 👉 https://github.com/Rajbaba90/Library-Management-System
 
+### 🎓 CampusEventHub  
+**React • Spring Boot • MySQL • Web App**  
+- Inter-college event management platform  
+- Student registration & admin approval system  
+- Secure REST APIs with role-based access  
+👉 https://github.com/Rajbaba90/Compush-Event-Hub
+
+
 </td>
 <td width="50%">
 
@@ -119,6 +127,7 @@
 - 2024 – Built Library Management System  
 - 2025 – Final Year Steganography Project  
 - 2026 – Started Full Stack Microservices Journey
+- 2026 - Campush Event Hub 
 
 ---
 
