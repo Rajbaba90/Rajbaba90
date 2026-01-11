@@ -67,14 +67,6 @@
 - Admin dashboard  
 👉 https://github.com/Rajbaba90/Library-Management-System
 
-### 🎓 CampusEventHub  
-**React • Spring Boot • MySQL • Web App**  
-- Inter-college event management platform  
-- Student registration & admin approval system  
-- Secure REST APIs with role-based access  
-👉 https://github.com/Rajbaba90/Compush-Event-Hub
-
-
 </td>
 <td width="50%">
 
@@ -101,6 +93,22 @@
 </td>
 </tr>
 </table>
+
+<tr>
+<td width="50%">
+
+### 🎓 CampusEventHub  
+**React • Spring Boot • MySQL • Web App**  
+- Inter-college event management platform  
+- Student registration & admin approval system  
+- Secure REST APIs with role-based access  
+👉https://github.com/Rajbaba90/Compush-Event-Hub
+
+</td>
+</tr>
+</table>
+
+
 
 ---
 
