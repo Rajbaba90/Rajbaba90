@@ -92,17 +92,24 @@
 
 </td>
 </tr>
-<td width=""50%>
-  <tr>
-    ### 🎓 CampusEventHub  
+
+<tr>
+<td width="50%">
+
+### 🎓 CampusEventHub  
 **React • Spring Boot • MySQL • Web App**  
 - Inter-college event management platform  
-- Student registration & admin approval system  
-- Secure REST APIs with role-based access  
-👉https://github.com/Rajbaba90/Compush-Event-Hub
+- Student registration & admin approval workflow  
+- Secure REST APIs & role-based access  
+👉 https://github.com/Rajbaba90/CampusEventHub
 
-  </td>
-  </tr>
+</td>
+<td width="50%">
+</td>
+</tr>
+
+
+
 </table>
 
 
@@ -132,8 +139,7 @@
 - 2024 – Built Library Management System  
 - 2025 – Final Year Steganography Project  
 - 2026 – Started Full Stack Microservices Journey
-- 2026 - Campush Event Hub 
-
+- 2026 – Built CampusEventHub (Inter-College Event Management Platform)
 ---
 
 ## 🏆 Highlights
