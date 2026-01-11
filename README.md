@@ -98,7 +98,7 @@
 - Inter-college event management platform  
 - Student registration & admin approval workflow  
 - Secure REST APIs & role-based access  
-👉 https://github.com/Rajbaba90/CampusEventHub
+👉 https://github.com/Rajbaba90/Compush-Event-Hub.git
 
 </td>
 <!-- <td width="50%">
