@@ -91,9 +91,6 @@
 👉 https://github.com/Rajbaba90/VoiceSense
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 🎓 CampusEventHub  
@@ -104,8 +101,8 @@
 👉 https://github.com/Rajbaba90/CampusEventHub
 
 </td>
-<td width="50%">
-</td>
+<!-- <td width="50%">
+</td> -->
 </tr>
 
 
