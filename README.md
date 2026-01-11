@@ -92,20 +92,17 @@
 
 </td>
 </tr>
-</table>
-
-<tr>
-<td width="50%">
-
-### 🎓 CampusEventHub  
+<td width=""50%>
+  <tr>
+    ### 🎓 CampusEventHub  
 **React • Spring Boot • MySQL • Web App**  
 - Inter-college event management platform  
 - Student registration & admin approval system  
 - Secure REST APIs with role-based access  
 👉https://github.com/Rajbaba90/Compush-Event-Hub
 
-</td>
-</tr>
+  </td>
+  </tr>
 </table>
 
 
