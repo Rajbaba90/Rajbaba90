@@ -2,7 +2,7 @@
 <h3 align="center">Java Full Stack Developer | Computer Science Undergraduate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2200&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Placement+Focused+Engineer;Backend+%7C+REST+APIs+%7C+System+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2200&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;freelancer+Engineer;Backend+%7C+REST+APIs+%7C+System+Design" />
 </p>
 
 <p align="center">
